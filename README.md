@@ -1,4 +1,4 @@
-# Responsive-Portfolio-1
+# Responsive Portfolio
 
 ## Description
   This project is a responsive portfolio for myself. The purpose of this porfolio is to test my skills at Bootstrap and creating layouts that work at different screen sizes. This can be a good template for a professional responsive portfolio page. 
