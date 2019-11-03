@@ -341,4 +341,8 @@ input:last-child {
         padding-right: 0;
         margin-right: 0;
     }
+    .portfolio-container {
+        width: 70%;
+        margin: 40px;
+    }
 }
