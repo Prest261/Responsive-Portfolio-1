@@ -265,6 +265,18 @@ footer {
     
 }
 
+input:last-child {
+    background-color: #ffffff;
+    width: 100%;
+    border: 1px solid #dddddd;
+}
+
+.btn-primary {
+    color: #ffffff;
+    background-color: #4aaaa5;
+    border: none;
+}
+
 /*  Extra small devices (portrait phones, less than 576px) */
 /* No media query for `xs` since this is the default in Bootstrap */
 
