@@ -304,6 +304,13 @@ input:last-child {
         display: flex;
         flex-direction: row;
     }
+    .portfolio-container {
+        width: 90%;
+    }
+    .col-sm-12-mountain {
+        padding-right: 30px;
+        padding-left: 30px
+    }
 }
 
 /* Medium devices (tablets, 768px and up) */
