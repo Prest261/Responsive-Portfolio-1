@@ -61,8 +61,13 @@ ul {
     font-family: 'Georgia', Times, 'Times New Roman', serif;
 }
 
+a {
+    color: #777777;
+}
+
 a:link {
     text-decoration: none;
+    color: #777777;
 }
 
 a:visited {
@@ -287,26 +292,32 @@ input:last-child {
         height: auto;
         margin: 10px 20px 20px 20px;
     }
+
     h1 {
         display: block;
         margin: 0 auto;
     }
+
     #header-container {
         display: flex;
         flex-direction: column;
         width: 100%;
         height: auto;
     }
+
     .container-fluid {
         width: auto;
     }
+
     .navbar-nav {
         display: flex;
         flex-direction: row;
     }
+
     .portfolio-container {
         width: 90%;
     }
+
     .col-sm-12-mountain {
         padding-right: 30px;
         padding-left: 30px
@@ -319,6 +330,7 @@ input:last-child {
         width: 40%;
         margin-right: 30px;
     }
+
     .navbar-nav {
         padding-top: 20px;
         margin-left: 60px;
@@ -329,18 +341,22 @@ input:last-child {
     #bio-image {
         width: 30%;
     }
+
     .container {
         margin: 40px;
         width: 70%;
     }
+
     h1 {
         margin-left: 40px;
         width: 70%;
     }
+
     .container-fluid {
         padding-right: 0;
         margin-right: 0;
     }
+    
     .portfolio-container {
         width: 70%;
         margin: 40px;
