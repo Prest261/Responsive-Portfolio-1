@@ -275,14 +275,7 @@ footer {
         height: auto;
         margin: 10px 20px 20px 20px;
     }
-    ul {
-        /* float: none;
-        margin: 0 auto;
-        text-align: center; */
-    }
     h1 {
-        /* display: none; */
-        /* position: none; */
         display: block;
         margin: 0 auto;
     }
@@ -316,5 +309,17 @@ footer {
 @media (min-width: 980px) {
     #bio-image {
         width: 30%;
+    }
+    .container {
+        margin: 40px;
+        width: 70%;
+    }
+    h1 {
+        margin-left: 40px;
+        width: 70%;
+    }
+    .container-fluid {
+        padding-right: 0;
+        margin-right: 0;
     }
 }
