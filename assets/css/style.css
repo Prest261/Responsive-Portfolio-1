@@ -33,7 +33,7 @@ html {
 
 body {
     clear: both;
-    background-image: url("../images/circle-blues/circle-blues.png");
+    background-image: url("../images/pawel-czerwinski-BmAOtpBZpMk-unsplash.jpg");
     background-repeat: repeat;
     color:  #644e5b;
     margin: 0;
@@ -63,21 +63,21 @@ ul {
 }
 
 .navLink {
-    color:  #644e5b;
+    color:  #c96567;
 }
 
 .navLink:link {
     text-decoration: none;
-    color:  #644e5b;
+    color:  #c96567;
 }
 
 .navLink:visited {
-    color: #644e5b;
+    color: #c96567;
 }
 
 li {
    display: inline-block;
-   color:  #644e5b;
+   color:  #c96567;
    margin: 0 0 0 0;
    padding: 10px;
    border-right: 2.5px solid #9e5a63;
@@ -93,7 +93,7 @@ hr {
     margin: 20px;
     border: none;
     height: 2.5px;
-    background-color: #9e5a63;
+    background-color: #c96567;
 }
 
 p {
@@ -106,7 +106,7 @@ h2 {
     clear: both;
     font-size: 30px;
     margin: 0 0 10px 20px;
-    color: #644e5b;
+    color: #c96567;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
 }
 
@@ -126,6 +126,7 @@ h3 {
 
 #contact-form {
     background-color: #dddddd;
+    color: #c96567;
 }
 
 form {
@@ -169,7 +170,7 @@ input:last-child {
     margin: 10px;
     padding: 10px;
     background-color: #c96567;
-    color: #dddddd;
+    color:   #dddddd;
     min-width: 95%;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     border: 2.5px #644e5b;
@@ -180,8 +181,12 @@ input:last-child {
 }
 
 .card-text {
-    border: 1px solid #dddddd;
+    border: 1.5px solid #644e5b;
     padding: 15px;
+}
+
+.card-img-top {
+    border: 2px solid #644e5b;
 }
 
 /* .mountain {
@@ -329,12 +334,12 @@ footer {
 input:last-child {
     background-color: #dddddd;
     width: 100%;
-    border: 1px solid #aaaaaa;
+    border: 1px solid #9e5a63;
 }
 
 .form-control {
     background-color: #dddddd;
-    border: 1px solid #aaaaaa;
+    border: 1px solid #9e5a63;
 }
 
 .btn-primary {
